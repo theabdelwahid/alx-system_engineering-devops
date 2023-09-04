@@ -1,3 +1,2 @@
 #!/bin/bash
 fmt /etc/passwd /etc/hosts
-
